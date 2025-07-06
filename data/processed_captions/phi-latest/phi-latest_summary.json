@@ -1,0 +1,97 @@
+[
+    {
+        "instruction": "Remove the author's tone and rewrite the sentence in a simple, factual way.",
+        "input": " All right, you win.  I'll roll over and\nshow you my belly.  I submit.  My arm has\nbeen getting twisted by tons of people\ndemanding that I speak about the Sydney\nSweeney bathwater soap.  Apparently, it\nsold out in seconds.  It's uh taken taken\nthe world by storm as the utmost\nauthority on both bathwater and soap.\n ",
+        "output": " The user has won a game of rock-paper-scissors. They will show you their belly. They have submitted to your question. Their arm has been affected by people asking them about Sydney Sweeney's bathwater soap, which sold out quickly and is now considered an authority on both bathwater and soap.\n"
+    },
+    {
+        "instruction": "Remove the author's tone and rewrite the sentence in a simple, factual way.",
+        "input": " People are turning to my expert analysis\nhere to weigh in on this subject.\n  Obviously, I have my own soap, Cheeky,\nwhich is far better than this horse\nhockey.  Cheeky is the best soap in the\nuniverse that we've made.  But don't just\ntake my word for it.  Go to usech\ncheeky.com right now and get some soap\nfor yourself to try it out. ",
+        "output": " Many people visit this website to read my analysis on this topic. My soap, Cheeky, is highly rated by users. For more information, please go to www.usecheaky.com to learn about the soap and its benefits.\n"
+    },
+    {
+        "instruction": "Remove the author's tone and rewrite the sentence in a simple, factual way.",
+        "input": " It'll change\nyour life for the better.  This topic\nisn't meant to just be a vessel to glaze\ncheeky.  It's just because I have that so\nmany people keep emailing about this\nSydney Sweeney stuff, so I had to\nmention it.  It's become extremely clear\nthat Sydney Sweeney has teamed up with\nthese schmucks over there at Dr. Squatch\njust for this big marketing campaign\nhere.  Now, I think had she known about\nCheeky, we're kind of new to the scene,\nbut had she known about us, she would\nhave been sprinting over here bearing\nbathwater, begging to be part of the\nsquad, part of the crew, part of the\nship, and we would have embraced that\nwith open arms. ",
+        "output": " This topic is not meant to just entertain; it has become clear that Sydney Sweeney has collaborated with Dr. Squatch for a marketing campaign. Cheeky, being new to the scene, could have been part of the collaboration if they were known about it beforehand. However, we did not know about it and are now left feeling out of the loop.\n"
+    },
+    {
+        "instruction": "Remove the author's tone and rewrite the sentence in a simple, factual way.",
+        "input": " And I'm not here saying\nthat we're shutting the door in her face\nbecause I'm sure she's going to make the\ncorrect decision and be on the right\nside of soap history eventually.  Uh but\nfor now, she's with Dr. Squatch for\nthese soap bars and she's kind of like\nthe spokesperson for them at the moment.\n  So anyway, this has clearly been a very\nsuccessful marketing campaign with the\nwhole Sydney Sweeney bath water infused\nsoap bars.  Allegedly, it uses some of\nher actual bath water and sprinkles it\ninto each bar and it's medium grit.  So,\nthe idea is you'll have like those\nlittle speckles in there that you'll\nwash yourself with or worship. ",
+        "output": " A possible way to rewrite the sentence without the author's tone is:\n\nShe is promoting a new soap product that uses Sydney Sweeney's bath water and some of her name on it. It claims to be natural, eco-friendly, and trendy. The soap bars are called Bath Bombs and they have little bits of color in them when you wash your hands or body.\n"
+    },
+    {
+        "instruction": "Remove the author's tone and rewrite the sentence in a simple, factual way.",
+        "input": " Hey Arnold bubblegum\ntribute to Sydney Sweeney in your closet\nor whatever.  This is obviously heavily\ninfluenced, I'm going to use that word,\nreal loosey goosey here, by one of the\ngoats of Gooning, Bel Deline's stunts\nfrom back in 2019 when she sold her bath\nwater in jars.  Now, Bel Deline was a\npioneer in the industry.  If eg girls\nwere athletes, then she's fucking Babe\nRuth.  She was the great bambino. ",
+        "output": " Hey user, I understand that you want to learn about Sydney Sweeney and her contributions to the entertainment industry. You may be interested in knowing about her achievements and impact on popular culture. However, it is important to note that this information is not related to any specific event or action in your closet. Is there anything else I can help you with?\n"
+    },
+    {
+        "instruction": "Remove the author's tone and rewrite the sentence in a simple, factual way.",
+        "input": " She\nwrote the book on how to hose gooners\nfor their piggy banks.  She is like the\nJohn Madden when it comes to these\nplays.  And now Sydney Sweeney basically\njust ripped a page out of that book and\ntried to replicate that success and\nsucceeded at replicating it.  The\nbathwater soap bars are apparently\nselling extremely well.  So well in fact\nthat there is a secondary market for it\non eBay as there always is for\neverything ever from these fucking people\nscalping Sydney Sweeney bath water here\nwhere they are reselling the soap bars\nfor over $200 a piece. ",
+        "output": " Sydney Sweeney's book on how to make money selling bathwater soap bars has been successful, and she has replicated this success by creating a secondary market for it on eBay. Some people are even buying soap bars at $200 each due to their popularity.\n"
+    },
+    {
+        "instruction": "Remove the author's tone and rewrite the sentence in a simple, factual way.",
+        "input": " 200 clams for\nthis this bathwater soap.  And not only\nthat, there are people shamelessly\nselling pictures of it for $30.  I'm just\ngoing to say this right now.  If you are\none of these pathetic souls that spends\n$30 buying a picture of Sydney Sweeny's\nBathwater soap bar, you need to be\ninstitutionalized right now for your own\ngood.  You have got to go straight to\nArkham Asylum. ",
+        "output": " In addition to the bathwater soap bar, there are 200 clams included in the package and people are selling pictures of it for $30. The author strongly advises against buying such a picture and suggests seeking help if one does so. It is recommended that the person be institutionalized at Arkham Asylum. \nThe tone of the original sentence was strong and opinionated, while the rewritten version is simple and factual.\n"
+    },
+    {
+        "instruction": "Remove the author's tone and rewrite the sentence in a simple, factual way.",
+        "input": " Holy shit That would be\nthe saddest existence on this planet.  If\nyou go to eBay and spend 30 dealloons on\na fucking picture of Sydney Sweeny's\nbathwater soap, that is the lowest you\ncan ever sink as a human being.  Maybe\nyou can honestly look at this as\nsomething inspirational.  No matter how\nbad you feel about yourself or whatever\nyou're going through, maybe your\nself-esteemes in the shitter just know\nyou are not as pitiful and worthless as\nthe people that are going to spend $30\non a picture of Sydney Sweeny's\nbathwater soap bar and that should\nuplift your spirits on the spot.\n  Interestingly enough, Sydney Sweeney\nclaims that this was actually her idea\nto use her actual bath water in the soap\nbars. ",
+        "output": " This is a picture of Sydney Sweeny's bathwater being used to make soap bars. She claims it as an inspiration for her product. People spend 30 dollars on these bars. It may be inspiring to some and saddening to others, depending on their mindset.\n"
+    },
+    {
+        "instruction": "Remove the author's tone and rewrite the sentence in a simple, factual way.",
+        "input": " She said, \"I think it's more fun\nto see everyone else talk about it.  I\npitched it.  You kept asking about my\nbath water after the Dr. Squatch ad, so\nwe kept it.\"  So, she is claiming that\nthis was her brainchild here with these\nsoap bars.  And I was a little\ndisappointed to see that she didn't give\ncredit to Belle Belelfine. ",
+        "output": " She claimed that the idea for this soap bar came from her and suggested it would be more enjoyable if everyone talked about it. However, the user expressed disappointment in not seeing credit given to Belle Belelfine, who had previously pitched a similar product called \"Dr. Squatch\".\n"
+    },
+    {
+        "instruction": "Remove the author's tone and rewrite the sentence in a simple, factual way.",
+        "input": " I feel like\nthere is no way this is just a big old\nkinky dink.  I don't think that it's, you\nknow, just pure happen stance that she\nis also using bath water for the soap.  I\nfeel like she must have at least heard\nabout the Belelfine bath water because\nthat has become ingrained in like\ninternet culture as part of like you\nknow the epitome of gooning like when\nyou reach terminal gooner like you know\nmelted core defcon one goon status that\nhas always been propped up.  I feel like\nshe must have heard about that or maybe\nsomeone at Dr. Squatch may have even\nlike mentioned it in passing and she\nthought it was a cool idea.  I just find\nit a little hard to believe that it had\nnothing to do with the the path Beline\nblazed the the trailblaze that she made\nback in 2019. ",
+        "output": " In 2019, Belline, who is also known as Dr. Squatch's assistant, created Belelfine bath water. It has become a popular term in internet culture and has been associated with reaching a higher level of coolness on the Gooniverse.\n"
+    },
+    {
+        "instruction": "Remove the author's tone and rewrite the sentence in a simple, factual way.",
+        "input": " But I do think it is\npossible cuz her ad she was in a\nbathtub.  So maybe she's like, \"Oh, this\nwould be kind of silly to take this bath\nwater and put it in the soap bars to\nmarket it to people that are like\ndesperately salivating over me.\"  It's\npossible, but I do think it's unlikely.\n  I want to briefly compare this bathwater\nsoap to Bel Deli's biological weapon\nfrom back in the day.  So, with the soap,\nI obviously don't have it on hand. ",
+        "output": " The sentence is about a woman who wants to market her bathwater soap by adding some of her own body parts, like a human heart. She thinks that this would be a clever and attractive idea, but she's not sure how customers would react. She also wonders if anyone else has tried this before. \nIn comparison, Bel Deli is a company that created a biological weapon from a human brain in the past. They used it to attack their enemies in a specific way. They are very dangerous and unpredictable.\n"
+    },
+    {
+        "instruction": "Remove the author's tone and rewrite the sentence in a simple, factual way.",
+        "input": " I\ndidn't purchase any.  I didn't attempt to\nor anything like that, but just having\nsoap that has bath water apparently in\nit.  They claim that it's there.  There's\nof course no scientific way of proving\nthat whatever bathwater presence there\nwas actually graced by Sydney Sweeny's\nass or anything like that, but taking\nthem at their word, you're getting a bar\nof soap with that in it.  So, I'm\nassuming that it's going to still be\nlike functional as a bar of soap.\n ",
+        "output": " The author did not buy the soap and it contains bath water. It is claimed by the company that Sydney Sweeny was present at the time of its production. However, there is no way to scientifically prove this claim. You can still use the soap as a functional bar of soap despite having bath water in it.\n"
+    },
+    {
+        "instruction": "Remove the author's tone and rewrite the sentence in a simple, factual way.",
+        "input": " Belffine's bath water was concentrated\nbathwater extract in a jar.  So, you\ncouldn't really do anything with it\nbesides just appreciate it for the\nsafety hazard it was.  I guess if you\nwere brave enough, you could chug it.\n  Like, you could drink it and give\nyourself E. coli if you really wanted\nto.  But once again, there was never any\nlike hard concrete way of proving that\nwhat you got shipped even back then was\nactually Bel\nBelli's, you know, fucking water, you\nknow, and you can't do that here either.\n ",
+        "output": " The sentence describes the process of concentrating bathwater in a jar for future use, without mentioning any safety concerns or consequences.\n"
+    },
+    {
+        "instruction": "Remove the author's tone and rewrite the sentence in a simple, factual way.",
+        "input": " Though I do remember from back in 2019,\nif I remember correctly, she had like\nfilmed herself bathing with the water\nand jarring it.  I don't think the same\nwas done here for the the soap bars from\nSydney Sweeney.  I don't know if you get\nlike a certificate of authenticity with\nevery bar, as well as proof where she\nhas like a video of her in lab goggles\nand a syringe extracting the bath water\nand then using it in the soponification\nprocess for the bar making.  Couldn't\ntell you.  All I know is that the\nproducts bear very similar DNA. ",
+        "output": " The author is suggesting that Sydney Sweeney filmed herself using the same water to make soap bars, and this might be a way to prove the authenticity of the product. However, the assistant cannot provide more information about this process.\n"
+    },
+    {
+        "instruction": "Remove the author's tone and rewrite the sentence in a simple, factual way.",
+        "input": " Whereas\nBel Deli was more expensive, you\nprobably got more bang for your\nbathwater buck.  In this case, you get\nlike microscopic amounts of Sydney\nSweeny's bathwater allegedly.  So, you\nknow, I'm not here to try and sell you\none way or the other on Belffine's\nancient bathwater brew versus, you know,\nthe the most recent one with Sydney\nSweeney.  I was just, you know, giving\nyou my perspective as someone who's seen\nboth of these unfold in real time.\n  Something I found interesting though is\njust how closely history repeats itself.\n ",
+        "output": " The sentence can be rewritten in a simple, factual way without the author's tone by removing any subjective opinions and focusing on the information provided. For example: \"Bel Deli was more expensive than you probably spent on Sydney Sweeney's bathwater. However, it is unclear if microscopic amounts of the Bathwater Brew from Belffine's are present.\"\n"
+    },
+    {
+        "instruction": "Remove the author's tone and rewrite the sentence in a simple, factual way.",
+        "input": " When Bel Deline did this back in 2019,\nit was very controversial.  It led to a\nhuge conversation where everyone was\nlike debating and like furious about the\nwhole thing, like getting mad.  And now\nthat Sydney Sweeney is doing it with the\nsoap here, even more people are like\nupset about it.  And it's apparently very\ncontroversial because now she's like an\nactual actress.  She's like a full-blown\ncelebrity whereas Belfine was more of\nlike the egirl celeb. ",
+        "output": " In 2019, a singer named Bel Deline did something that caused a lot of discussion and debate. When Sydney Sweeney, a soap opera actor, also did the same thing with her new soap, it further sparked controversy as she is now considered an actress. This change in career path has received mixed reactions from people.\n"
+    },
+    {
+        "instruction": "Remove the author's tone and rewrite the sentence in a simple, factual way.",
+        "input": " So is a little\nmore niche.  Sydney Sweeney opens this\nGoonar degeneracy, you know, Pandora's\nbox to a lot more people that were maybe\npreviously unaware.  So this has become\neven more controversial than the Bel\nDeline bath water, which I found really\ninteresting because I thought a lot of\npeople would look at this and just kind\nof write it off as like been there, done\nthat, kind of lame.  and the novelties\nworn off.  I was very wrong with that\nassumption. ",
+        "output": " Sydney Sweeney introduces new fans to a popular TV show, which has caused controversy due to its unique content. Despite this, many viewers find it interesting and not at all boring or overplayed.\n"
+    },
+    {
+        "instruction": "Remove the author's tone and rewrite the sentence in a simple, factual way.",
+        "input": " That is not what's happened\nat all.  It is once again blown up like\nin a pretty big way.  Like not to, you\nknow, front front page headlines or\nanything, but since she has so many fans\nas a full-blown A-list celebrity, a lot\nof people are like expressing\ndisappointment in her for doing this and\nstooping so low as opposed to just\nviewing it as like a light-hearted silly\nthing or like a joke.  I don't know.  I\njust found that kind of interesting cuz\nI didn't expect it to be like a big deal\nfor her. ",
+        "output": " A summary of the sentence in simple, factual terms is: The author does not agree with the user's interpretation and provides a different perspective on the situation.\n"
+    },
+    {
+        "instruction": "Remove the author's tone and rewrite the sentence in a simple, factual way.",
+        "input": " I highly doubt this does any\ndamage to her brand or anything.  I don't\nthink she's going to lose roles over\ndoing something like this like a lot of\npeople are claiming that she just threw\naway her whole reputation with this.  I\nthink that is severely exaggerated.  I'm\nsure her career will be just fine after\nthe the bathwater soap.  I I just found\nit fascinating how this was once again a\nbig deal. ",
+        "output": " Instruction: Can you simplify the following sentence? \"I highly doubt this does any damage to her brand or anything. I don't think she's going to lose roles over doing something like this like a lot of people are claiming that she just threw away her whole reputation with this. I think that is severely exaggerated. I'm sure her career will be just fine after the bathwater soap. I I just found it fascinating how this was once again a big deal.\"\n"
+    }
+]
